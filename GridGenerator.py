@@ -34,3 +34,5 @@ def GeneradorGrillaDiccionario(filas,columnas):
 
     for x in range(nroElementos):
         diccionario[x]=listaAuxiliar[x]
+        
+    return diccionario
